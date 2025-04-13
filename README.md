@@ -1,4 +1,4 @@
-**SuperStore Analysis**
+#SuperStore Analysis
 
 When working on the Superstore dataset in Power BI, you can enhance analysis using key DAX functions and interactive features:
 
